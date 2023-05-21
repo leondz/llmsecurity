@@ -9,7 +9,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+        **LLM security** is the investigation of: the _failure modes_ of LLMs in use, the conditions that lead to them, and their mitigations
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
