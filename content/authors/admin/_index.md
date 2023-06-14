@@ -44,9 +44,9 @@ social:
 #  - icon: orcid
 #    icon_pack: fab
 #    link: https://orcid.org/0000-0001-5547-3196
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/leondz/garak
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
 #  - icon: file-pdf
